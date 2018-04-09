@@ -18,6 +18,20 @@ void setup() {
   println("");
   print("The third team is called ");
   print(team3name);
+  println("");
+  println("");
+  int team1wins = 9;
+  int team1losses = 13;
+  int team2wins = 7;
+  int team2losses = 4;
+  int team3wins = 14;
+  int team3losses = 2;
+  print(team1name);
+  print("\t");
+  print(team1wins);
+  
+  
+  
 }
 
 void draw() {
