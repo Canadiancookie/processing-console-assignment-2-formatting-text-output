@@ -20,6 +20,7 @@ void setup() {
   print(team3name);
   println("");
   println("");
+  
   int team1wins = 9;
   int team1losses = 13;
   int team2wins = 7;
@@ -27,8 +28,9 @@ void setup() {
   int team3wins = 14;
   int team3losses = 2;
   int team1points = 18;
-  int team2points = 26;
-  int team3points = 14;
+  int team2points = 14;
+  int team3points = 28;
+  
   print("Team");
   print("\t");
   print("\t");
