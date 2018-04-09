@@ -26,11 +26,59 @@ void setup() {
   int team2losses = 4;
   int team3wins = 14;
   int team3losses = 2;
+  int team1points = 18;
+  int team2points = 26;
+  int team3points = 14;
+  print("Team");
+  print("\t");
+  print("\t");
+  print("\t");
+  print("Wins");
+  print("\t");
+  print("\t");
+  print("Losses");
+  print("\t");
+  print("\t");
+  print("Points");
+  
+  println("");
+  
   print(team1name);
   print("\t");
+  print("\t");
   print(team1wins);
+  print("\t");
+  print("\t");
+  print(team1losses);
+  print("\t");
+  print("\t");
+  print(team1points);
   
+  println("");
   
+  print(team2name);
+  print("\t");
+  print("\t");
+  print(team2wins);
+  print("\t");
+  print("\t");
+  print(team2losses);
+  print("\t");
+  print("\t");
+  print(team2points);
+  
+  println("");
+  
+  print(team3name);
+  print("\t");
+  print("\t");
+  print(team3wins);
+  print("\t");
+  print("\t");
+  print(team3losses);
+  print("\t");
+  print("\t");
+  print(team3points);
   
 }
 
